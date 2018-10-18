@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>USB on Perf-V</title>
+    <link>http://perfv.org/cn/tags/usb.html</link>
+    <description>Recent content in USB on Perf-V</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 18 Sep 2018 12:13:04 +0800</lastBuildDate>
+    
+	<atom:link href="http://perfv.org/cn/tags/usb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Perf-V开发板新特性之USB2.0应用</title>
+      <link>http://perfv.org/cn/posts/post-2.html</link>
+      <pubDate>Tue, 18 Sep 2018 12:13:04 +0800</pubDate>
+      
+      <guid>http://perfv.org/cn/posts/post-2.html</guid>
+      <description>var _hmt = _hmt || []; (function () { var hm = document.createElement(&#34;script&#34;); hm.src = &#34;https://hm.baidu.com/hm.js?72da874e46df0db06656968a66188744&#34;; var s = document.getElementsByTagName(&#34;script&#34;)[0]; s.parentNode.insertBefore(hm, s); })();  USB，是英文通用串行总线的缩写，是一个外部总线标准，用于规范电脑与外部设备的连接和通讯。是应用在PC领域的接口技术,USB接口支持设备的即插即用和热插拔功能。
+Perf-V开发板上，可以使用高速口转2.54毫米插针接口连接USB2.0模块,实现USB数据传输。 购买配件和Perf-V主板后可获得成套代码与文档。 购买链接: https://shop350413479.taobao.com</description>
+    </item>
+    
+  </channel>
+</rss>

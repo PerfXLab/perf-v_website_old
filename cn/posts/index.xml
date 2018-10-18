@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Perf-V</title>
+    <link>http://perfv.org/cn/posts.html</link>
+    <description>Recent content in Posts on Perf-V</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 18 Sep 2018 12:13:11 +0800</lastBuildDate>
+    
+	<atom:link href="http://perfv.org/cn/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Perf-V IDE发布</title>
+      <link>http://perfv.org/cn/posts/post-5.html</link>
+      <pubDate>Tue, 18 Sep 2018 12:13:11 +0800</pubDate>
+      
+      <guid>http://perfv.org/cn/posts/post-5.html</guid>
+      <description>  var _hmt = _hmt || []; (function () { var hm = document.createElement(&#34;script&#34;); hm.src = &#34;https://hm.baidu.com/hm.js?72da874e46df0db06656968a66188744&#34;; var s = document.getElementsByTagName(&#34;script&#34;)[0]; s.parentNode.insertBefore(hm, s); })();  Perf-V IDE 1.0版本现已发布Windows版，linux版即将发布。 简介 Perf-V IDE是一个为Perf-V开发板打造的集成开发环境，可以轻松上手，操作简单，使用方便。Perf-V ID集成了jre, build tools, RISC-V GCC工具链和OpenOCD工具链，可以编写和调试Perf-V开发板上的应用程序。
+特性  可以在程序中设置断点 可以随时暂停运行中的程序 暂停时可以查看寄存器的值 暂停时可以查看程序中变量的值 暂停时可以查看程序的汇编代码 可以让程序单步执行 可以在终端视图里打印程序的输出信息  </description>
+    </item>
+    
+    <item>
+      <title>Perf-V开发板新特性之TFT-LCD应用</title>
+      <link>http://perfv.org/cn/posts/post-4.html</link>
+      <pubDate>Tue, 18 Sep 2018 12:13:08 +0800</pubDate>
+      
+      <guid>http://perfv.org/cn/posts/post-4.html</guid>
+      <description>var _hmt = _hmt || []; (function () { var hm = document.createElement(&#34;script&#34;); hm.src = &#34;https://hm.baidu.com/hm.js?72da874e46df0db06656968a66188744&#34;; var s = document.getElementsByTagName(&#34;script&#34;)[0]; s.parentNode.insertBefore(hm, s); })();  TFT-LCD(Thin Film Transistor-Liquid Crystal Display)是薄膜晶体管液晶显示器。MAR3528模块为3.5英寸TFT LCD，颜色为262K，分辨率为480x320。该LCD模块的控制器为ILI9486/ILI9488，支持16线数据总线接口。该模块包括5V-3.3V功率转换电路和电平转换电路。MAR3528模块直接通过Adruino接口和PERF-V开发板连接。
+TFT屏幕显示功能在蜂鸟IP核中用C语言实现，通过Makefile编译连接生成可执行文件，并下载到工程板内。Perf-V开发板支持TFT屏幕显示功能，可以实现纯色填充刷屏、GUI矩形绘图、GUI画圆、中英文字体显示、图片显示等特性。
+购买配件和Perf-V主板后可获得成套代码与文档。 购买链接: https://shop350413479.taobao.com</description>
+    </item>
+    
+    <item>
+      <title>Perf-V开发板新特性之千兆以太网应用</title>
+      <link>http://perfv.org/cn/posts/post-3.html</link>
+      <pubDate>Tue, 18 Sep 2018 12:13:06 +0800</pubDate>
+      
+      <guid>http://perfv.org/cn/posts/post-3.html</guid>
+      <description>var _hmt = _hmt || []; (function () { var hm = document.createElement(&#34;script&#34;); hm.src = &#34;https://hm.baidu.com/hm.js?72da874e46df0db06656968a66188744&#34;; var s = document.getElementsByTagName(&#34;script&#34;)[0]; s.parentNode.insertBefore(hm, s); })();  以太网接口作为一种互联型接口，当下应用非常的广泛。从家用宽带，到服务器数据交换，再到工业控制，各个地方都能看到以太网的身影。FPGA系统使用以太网，则主要用于高速远距离的数据传输，如LED大屏显示、监控系统等。
+Perf-V开发板上，可以使用高速口转2.54毫米插针接口连接以太网模块。当需要发送以太网数据时，FPGA把数据发送给PHY芯片，PHY芯片将数据编码后，通过网络变压器将数据加载到网线上。数据经由网络传递到接收方。远端发送过来的数据，经由网线传递给网络变压器，网络变压器的输出连接到PHY芯片上，PHY芯片对信号进行解码后，得到实际的数据，然后将数据传递给FPGA芯片。如图在基于Perf-V开发板的以太网实验中进行数据传输，接收到的字符为FPGA所发出的HELLO PERFXLAB,实际测得传输速率为121*8 = 968 MHZ。
+购买配件和Perf-V主板后可获得成套代码与文档。 购买链接: https://shop350413479.taobao.com</description>
+    </item>
+    
+    <item>
+      <title>Perf-V开发板新特性之USB2.0应用</title>
+      <link>http://perfv.org/cn/posts/post-2.html</link>
+      <pubDate>Tue, 18 Sep 2018 12:13:04 +0800</pubDate>
+      
+      <guid>http://perfv.org/cn/posts/post-2.html</guid>
+      <description>var _hmt = _hmt || []; (function () { var hm = document.createElement(&#34;script&#34;); hm.src = &#34;https://hm.baidu.com/hm.js?72da874e46df0db06656968a66188744&#34;; var s = document.getElementsByTagName(&#34;script&#34;)[0]; s.parentNode.insertBefore(hm, s); })();  USB，是英文通用串行总线的缩写，是一个外部总线标准，用于规范电脑与外部设备的连接和通讯。是应用在PC领域的接口技术,USB接口支持设备的即插即用和热插拔功能。
+Perf-V开发板上，可以使用高速口转2.54毫米插针接口连接USB2.0模块,实现USB数据传输。 购买配件和Perf-V主板后可获得成套代码与文档。 购买链接: https://shop350413479.taobao.com</description>
+    </item>
+    
+    <item>
+      <title>关于Perf-V的开篇</title>
+      <link>http://perfv.org/cn/posts/post-1.html</link>
+      <pubDate>Tue, 01 May 2018 12:11:41 +0800</pubDate>
+      
+      <guid>http://perfv.org/cn/posts/post-1.html</guid>
+      <description>var _hmt = _hmt || []; (function () { var hm = document.createElement(&#34;script&#34;); hm.src = &#34;https://hm.baidu.com/hm.js?72da874e46df0db06656968a66188744&#34;; var s = document.getElementsByTagName(&#34;script&#34;)[0]; s.parentNode.insertBefore(hm, s); })();  欢迎来到Perf-V的世界！基于开源的精神以及为RISC-V相关社区贡献力量的初衷，我们发起了Perf-V项目。
+众所周知，Perfxlab是一家以追求“性能卓越、精益求精”为基因的公司，而今这种追求不单在我们的软件与算法层面发扬光大，也延续到了基础硬件层面。源于对计算机体系结构的深入理解和酷爱，自项目诞生以来，每一个参与到Perf-V项目中来的同仁都为其迸发了极大的工作热忱，旨在为社区、为开发者提供一个更灵活、更适宜普及的RISC-V工程板。
+而今，我们推出了第一代基于FPGA的Perf-V系列——Perf-V Model I，并在其上成功移植和部署了多款开源RISC-V核，并基于此做了很多应用的demo实现，为广大开发者深入了解和应用RISC-V抛砖引玉。期望我们的努力可以为RISC-V社群的发展壮大尽一份绵薄之力，也希望计算机体系结构领域能迎来“硬件开源2.0”的崭新时代。</description>
+    </item>
+    
+  </channel>
+</rss>

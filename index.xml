@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Perf-V</title>
+    <link>http://perfv.org/</link>
+    <description>Recent content in Home on Perf-V</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 18 Sep 2018 12:13:11 +0800</lastBuildDate>
+    
+	<atom:link href="http://perfv.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Release of Perf-V IDE</title>
+      <link>http://perfv.org/posts/post-5.html</link>
+      <pubDate>Tue, 18 Sep 2018 12:13:11 +0800</pubDate>
+      
+      <guid>http://perfv.org/posts/post-5.html</guid>
+      <description>var _hmt = _hmt || []; (function () { var hm = document.createElement(&#34;script&#34;); hm.src = &#34;https://hm.baidu.com/hm.js?72da874e46df0db06656968a66188744&#34;; var s = document.getElementsByTagName(&#34;script&#34;)[0]; s.parentNode.insertBefore(hm, s); })();  Perf-V IDE v1.0 for Windows has been released, the Linux version will be released soon. Introduction Perf-V IDE is an integrated development environment built for Perf-V Creative Board. It can be easily operated, and convenient to use. Perf-V IDE is bundled with jre, build tools, RISC-V GCC Toolchain and OpenOCD and can be used to write and debug programs targeting the Perf-V creative board.</description>
+    </item>
+    
+    <item>
+      <title>New Features of Perf-V Creative Board TFT-LCD Application</title>
+      <link>http://perfv.org/posts/post-4.html</link>
+      <pubDate>Tue, 18 Sep 2018 12:13:08 +0800</pubDate>
+      
+      <guid>http://perfv.org/posts/post-4.html</guid>
+      <description>var _hmt = _hmt || []; (function () { var hm = document.createElement(&#34;script&#34;); hm.src = &#34;https://hm.baidu.com/hm.js?72da874e46df0db06656968a66188744&#34;; var s = document.getElementsByTagName(&#34;script&#34;)[0]; s.parentNode.insertBefore(hm, s); })();  TFT-LCD is the abbreviation for thin film transistor-liquid crystal display. MAR3528 module is 3.5&amp;rdquo; TFT LCD with 262K color 480x 320 resolutions. The controller of this LCD module is ILI9486/ILI9488, it supports 16-wires Data Bus interface. Moreover, this module includes the 5V-3.3V power conversion circuit and Level conversion circuit.</description>
+    </item>
+    
+    <item>
+      <title>New Features of Perf-V Creative Board Gigabit Ethernet Application</title>
+      <link>http://perfv.org/posts/post-3.html</link>
+      <pubDate>Tue, 18 Sep 2018 12:13:06 +0800</pubDate>
+      
+      <guid>http://perfv.org/posts/post-3.html</guid>
+      <description>var _hmt = _hmt || []; (function () { var hm = document.createElement(&#34;script&#34;); hm.src = &#34;https://hm.baidu.com/hm.js?72da874e46df0db06656968a66188744&#34;; var s = document.getElementsByTagName(&#34;script&#34;)[0]; s.parentNode.insertBefore(hm, s); })();  As an interconnection interface, Ethernet interface is widely used nowadays. Ethernet can be seen everywhere from home broadband to server data exchanges to industrial controls. In FPGA system, it is mainly used for high-speed and long-distance data transmission, such as LED large-screen display, monitoring system and so on.</description>
+    </item>
+    
+    <item>
+      <title>New Features of Perf-V Creative Board USB2.0 Application</title>
+      <link>http://perfv.org/posts/post-2.html</link>
+      <pubDate>Tue, 18 Sep 2018 12:13:04 +0800</pubDate>
+      
+      <guid>http://perfv.org/posts/post-2.html</guid>
+      <description>var _hmt = _hmt || []; (function () { var hm = document.createElement(&#34;script&#34;); hm.src = &#34;https://hm.baidu.com/hm.js?72da874e46df0db06656968a66188744&#34;; var s = document.getElementsByTagName(&#34;script&#34;)[0]; s.parentNode.insertBefore(hm, s); })();  USB(universal serial bus) is a kind of external bus standard used to standardize the connection and communication between computers and external equipment. It is the interface technology applied in PC field. USB interface supports plug-and-play and hot-plug functions of the device.
+On the Perf-V creative board, USB data transmission can be realized by connecting USB2.</description>
+    </item>
+    
+    <item>
+      <title>Preface to Perf-V</title>
+      <link>http://perfv.org/posts/post-1.html</link>
+      <pubDate>Tue, 01 May 2018 12:11:41 +0800</pubDate>
+      
+      <guid>http://perfv.org/posts/post-1.html</guid>
+      <description>var _hmt = _hmt || []; (function () { var hm = document.createElement(&#34;script&#34;); hm.src = &#34;https://hm.baidu.com/hm.js?72da874e46df0db06656968a66188744&#34;; var s = document.getElementsByTagName(&#34;script&#34;)[0]; s.parentNode.insertBefore(hm, s); })();  Welcome to the Perf-V world! Based on the spirit of open-sourcing and the original intention of contributing to the RISC-V related communities, we launched the Perf-V project.
+As we all know, PerfXLab is a pursuing excellence company that devoutly take &amp;ldquo;Discovering Potential &amp;amp; Driving Performance&amp;rdquo; as our gene.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://perfv.org/.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://perfv.org/.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

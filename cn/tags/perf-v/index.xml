@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Perf-v on Perf-V</title>
+    <link>http://perfv.org/cn/tags/perf-v.html</link>
+    <description>Recent content in Perf-v on Perf-V</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 May 2018 12:11:41 +0800</lastBuildDate>
+    
+	<atom:link href="http://perfv.org/cn/tags/perf-v/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>关于Perf-V的开篇</title>
+      <link>http://perfv.org/cn/posts/post-1.html</link>
+      <pubDate>Tue, 01 May 2018 12:11:41 +0800</pubDate>
+      
+      <guid>http://perfv.org/cn/posts/post-1.html</guid>
+      <description>var _hmt = _hmt || []; (function () { var hm = document.createElement(&#34;script&#34;); hm.src = &#34;https://hm.baidu.com/hm.js?72da874e46df0db06656968a66188744&#34;; var s = document.getElementsByTagName(&#34;script&#34;)[0]; s.parentNode.insertBefore(hm, s); })();  欢迎来到Perf-V的世界！基于开源的精神以及为RISC-V相关社区贡献力量的初衷，我们发起了Perf-V项目。
+众所周知，Perfxlab是一家以追求“性能卓越、精益求精”为基因的公司，而今这种追求不单在我们的软件与算法层面发扬光大，也延续到了基础硬件层面。源于对计算机体系结构的深入理解和酷爱，自项目诞生以来，每一个参与到Perf-V项目中来的同仁都为其迸发了极大的工作热忱，旨在为社区、为开发者提供一个更灵活、更适宜普及的RISC-V工程板。
+而今，我们推出了第一代基于FPGA的Perf-V系列——Perf-V Model I，并在其上成功移植和部署了多款开源RISC-V核，并基于此做了很多应用的demo实现，为广大开发者深入了解和应用RISC-V抛砖引玉。期望我们的努力可以为RISC-V社群的发展壮大尽一份绵薄之力，也希望计算机体系结构领域能迎来“硬件开源2.0”的崭新时代。</description>
+    </item>
+    
+  </channel>
+</rss>

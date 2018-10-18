@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>http://perfv.org/en/sitemap.xml</loc>
+		
+	   	<lastmod>2018-09-18T12:13:11+08:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>http://perfv.org/cn/sitemap.xml</loc>
+		
+	   	<lastmod>2018-09-18T12:13:11+08:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>
