@@ -200,22 +200,6 @@
   </url>
   
   <url>
-    <loc>http://perfv.org/tags/perf-v.html</loc>
-    <lastmod>2018-05-01T12:11:41+08:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="http://perfv.org/cn/tags/perf-v.html"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://perfv.org/tags/perf-v.html"
-                />
-  </url>
-  
-  <url>
     <loc>http://perfv.org/posts.html</loc>
     <lastmod>2018-09-18T12:13:11+08:00</lastmod>
     <priority>0</priority>
@@ -289,6 +273,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://perfv.org/tags/usb.html"
+                />
+  </url>
+  
+  <url>
+    <loc>http://perfv.org/tags/perf-v.html</loc>
+    <lastmod>2018-05-01T12:11:41+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://perfv.org/cn/tags/perf-v.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://perfv.org/tags/perf-v.html"
                 />
   </url>
   
